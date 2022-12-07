@@ -40,7 +40,6 @@ pygame.mixer.music.set_volume(0.2)
 mute = False
 
 while True:
-    # sc.fill(pygame.Color("black")) #на кожній ітерації будемо замальовувати фон чорним кольором
     sc.blit(bg, (0, 0))
     # drawing snake, apple
     # намалюємо всі секції змійки, як квадрати зеленого кольору
