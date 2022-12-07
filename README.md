@@ -9,11 +9,12 @@ Setting up pygame
 ------------------
 
 For using this code you need to install ``pygame``.
+
 Windows:
     
     $ py -m pip install -U pygame --user
     
-Linux
+Linux:
 
     python3 -m pip install -U pygame --user
  
