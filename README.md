@@ -16,7 +16,7 @@ Windows:
     
 Linux:
 
-    python3 -m pip install -U pygame --user
+    $ python3 -m pip install -U pygame --user
  
 Version of Pygame, Python
 -------------------------
